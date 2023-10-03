@@ -1,5 +1,7 @@
-# :wave: The Basics of GitHub 
 
+## CPSC 411 A 02 Fall 2023 - Ojash Shrestha
+
+# :wave: The Basics of GitHub 
 ## 🤓 Course overview and learning outcomes 
 
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
